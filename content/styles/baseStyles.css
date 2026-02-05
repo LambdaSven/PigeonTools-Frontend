@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+  color: purple;
+}
+
+.login {
+  text-align: center;
+  padding: 1em;
+  margin: 5% 30%;
+  background-color: powderblue;
+}
